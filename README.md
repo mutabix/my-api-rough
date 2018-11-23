@@ -2,7 +2,7 @@
 
 # SendIT-API
 
-
+Coverage](https://api.codeclimate.com/v1/badges/92f5a240786168af92b0/test_coverage)](https://codeclimate.com/github/abayo-luc/SendIT/test_coverage)
 
 ## Get Started
 
